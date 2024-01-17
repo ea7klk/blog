@@ -1,2 +1,2 @@
 # blog
-Repo for my blog, published with github pages
+Repositorio para el blog de https://ea7klk.es
